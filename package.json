@@ -2,6 +2,7 @@
   "name": "profile",
   "version": "0.1.0",
   "private": true,
+  "author":"Kiran Shrestha"
   "homepage": "https://kiran-qitplus.github.io/profile/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
