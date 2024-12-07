@@ -1,2 +1,2 @@
-# porfolio 
+# Portfolio 
 Protfolio made using React
